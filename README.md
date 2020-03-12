@@ -1,4 +1,4 @@
-**About**
+**About ctf**
 
 A tool allows to convert text into Morse code and save to wav file.
 
